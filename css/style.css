@@ -19,7 +19,7 @@ h3{
     font-size:24px;
 }
 p{
-    font-size:16px;
+    font-size:17px;
     margin:20px 0;
 }
 a{
@@ -66,6 +66,7 @@ img{
 }
 .mission-section h2{
     text-align: center;
+    margin-bottom: 80px;
 }
 .mission{
     background-color: #4f9da659;
@@ -99,4 +100,20 @@ img{
 }
 .community-section img{
     width: 85%;
+}
+/* cotact form style*/
+.cotact-form{
+    text-align: center;
+    margin: 120px 40px;
+}
+.cotact-form input,textarea{
+    width: 80%;
+    padding: 12px;
+    margin: 10px;
+    border-radius: 5px;
+    border:1px solid #FFAD5A;
+}
+.cotact-form .btn{
+    width: 40%;
+    font-size:20px;
 }
