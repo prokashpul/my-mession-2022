@@ -20,6 +20,7 @@ h3{
 }
 p{
     font-size:16px;
+    margin:20px 0;
 }
 a{
     text-decoration:none;
@@ -34,6 +35,21 @@ a{
 .width-2{
     flex-basis: 40%;
 }
+.btn{
+    background-color: #FF5959;
+    padding: 10px 20px;
+    color: #ffffff;
+    border-radius: 5px;
+}
 img{
     width: 100%;
+}
+
+/* Header section style */
+.heading-section{
+    padding: 50px;
+}
+.heading-section h1{
+    border-left: 3px solid #FF5959;
+    padding-left: 15px;
 }
