@@ -93,3 +93,10 @@ img{
 .activity-img img{
     width: 85%;
 }
+/* community section style */
+.community-section{
+    margin:120px 40px;
+}
+.community-section img{
+    width: 85%;
+}
