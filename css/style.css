@@ -13,7 +13,7 @@ h1{
     font-family: 'Yeseva One', cursive;
 }
 h2{
-    font-size:4px;
+    font-size:46px;
 }
 h3{
     font-size:24px;
@@ -28,12 +28,17 @@ a{
 .ht-oolor{
     color:#FFAD5A;
 }
+/* flex box style */
 .flex-box{
     display: flex;
     justify-content: space-evenly;
+    flex-wrap: wrap;
 }
 .width-2{
     flex-basis: 40%;
+}
+.width-3{
+    flex-basis: 30%;
 }
 .btn{
     background-color: #FF5959;
@@ -47,9 +52,37 @@ img{
 
 /* Header section style */
 .heading-section{
-    padding: 50px;
+    padding: 50px 40px;
 }
 .heading-section h1{
     border-left: 3px solid #FF5959;
     padding-left: 15px;
+}
+
+/* measion section style */
+.mission-section{
+    padding: 0 100px;
+    margin: 50px 0;
+}
+.mission-section h2{
+    text-align: center;
+}
+.mission{
+    background-color: #4f9da659;
+    border-radius: 10px;
+    padding: 10px;
+}
+.vission{
+    background-color: #a64f7049;
+    border-radius: 10px;
+    padding: 10px;
+}
+.gole{
+    background-color:#fff4d6c7;
+    border-radius: 10px;
+    padding: 15px;
+}
+
+.mession-items img{
+    width: 150px;
 }
