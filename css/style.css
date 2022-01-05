@@ -7,3 +7,33 @@ body{
     font-family: 'Poppins', sans-serif;
     color: #333333;
 }
+/* maximum usest style */
+h1{
+    font-size:50px;
+    font-family: 'Yeseva One', cursive;
+}
+h2{
+    font-size:4px;
+}
+h3{
+    font-size:24px;
+}
+p{
+    font-size:16px;
+}
+a{
+    text-decoration:none;
+}
+.ht-oolor{
+    color:#FFAD5A;
+}
+.flex-box{
+    display: flex;
+    justify-content: space-evenly;
+}
+.width-2{
+    flex-basis: 40%;
+}
+img{
+    width: 100%;
+}
