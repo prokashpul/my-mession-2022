@@ -86,3 +86,10 @@ img{
 .mession-items img{
     width: 150px;
 }
+/* activite section style */
+.activity-section{
+    margin:120px 40px;
+}
+.activity-img img{
+    width: 85%;
+}
