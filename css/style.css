@@ -46,6 +46,9 @@ a{
     color: #ffffff;
     border-radius: 5px;
 }
+.btn:hover{
+    box-shadow: 0px 5px 15px #ff59596b;
+}
 img{
     width: 100%;
 }
@@ -116,4 +119,19 @@ img{
 .cotact-form .btn{
     width: 40%;
     font-size:20px;
+}
+
+/* footer area style*/
+.footer-area{
+    background-color: #000000;
+    text-align:center;
+    padding: 10px;
+    color: #ffffff;
+}
+.footer-area h2{
+    font-family: 'Lobster', cursive;
+    
+}
+.footer-area h2 .ht-oolor{
+    color:#FF5959;
 }
