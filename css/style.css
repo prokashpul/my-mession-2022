@@ -116,6 +116,9 @@ img{
     border-radius: 5px;
     border:1px solid #FFAD5A;
 }
+.cotact-form textarea{
+    resize:vertical;
+}
 .cotact-form .btn{
     width: 40%;
     font-size:20px;
@@ -132,6 +135,6 @@ img{
     font-family: 'Lobster', cursive;
     
 }
-.footer-area h2 .ht-oolor{
+.footer-area h2 .ht-color{
     color:#FF5959;
 }
